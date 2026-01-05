@@ -1,0 +1,7 @@
+{
+  "name": "Rutin Kırıcı",
+  "description": "Routine Breaker: A gamified, AI-powered city exploration app to help you discover new places and break your habits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
